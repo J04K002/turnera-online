@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "dni": "42354856",
+    "nombre": "Joaquin Carrizo",
+    "edad": "25",
+    "email": "joaqlol@gmail.com",
+    "telefono": "3444 449808",
+    "obraSocial": "ospecon"
+  }
+]
